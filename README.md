@@ -1,5 +1,6 @@
 # List of my public [gists](https://gist.github.com/gmolveau)
 
+- [bash script to upgrade all outdated dependencies with python/pip](https://gist.github.com/gmolveau/9d72c3c64544c4f95bd882d93cee55d1)
 - [flask/gunicorn/apache2 download/upload fails/closes/stops after 30 seconds](https://gist.github.com/gmolveau/5e96473349ccef1b86aa780638381a89)
 - [Configure firefox profile with bash cli](https://gist.github.com/gmolveau/da4e130b346ceb7478e0449094877662)
 - [linuxserver.io lsiown script (extracted with `docker run --rm -it ghcr.io/linuxserver/baseimage-ubuntu:jammy cat /usr/bin/lsiown`)](https://gist.github.com/gmolveau/e2f07ef9a652ea2c5699826f6cb1b536)
