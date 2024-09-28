@@ -1,5 +1,6 @@
 # List of my public [gists](https://gist.github.com/gmolveau)
 
+- [python3.12 ModuleNotFoundError: No module named 'distutils'](https://gist.github.com/gmolveau/ac225c2d705a1d77d6b766d21623b7f2)
 - [Set thunar as default file-manager on ubuntu](https://gist.github.com/gmolveau/e63bdc807ef48715e044e411f1237968)
 - [bash script to upgrade all outdated dependencies with python/pip](https://gist.github.com/gmolveau/9d72c3c64544c4f95bd882d93cee55d1)
 - [flask/gunicorn/apache2 download/upload fails/closes/stops after 30 seconds](https://gist.github.com/gmolveau/5e96473349ccef1b86aa780638381a89)
