@@ -1,5 +1,6 @@
 # List of my public [gists](https://gist.github.com/gmolveau)
 
+- [Singlefile personal config (remove characters, FS friendly)](https://gist.github.com/gmolveau/fdbeb7ee4fc40b81584cf52fe7410618)
 - [python3.12 ModuleNotFoundError: No module named 'distutils'](https://gist.github.com/gmolveau/ac225c2d705a1d77d6b766d21623b7f2)
 - [Set thunar as default file-manager on ubuntu](https://gist.github.com/gmolveau/e63bdc807ef48715e044e411f1237968)
 - [bash script to upgrade all outdated dependencies with python/pip](https://gist.github.com/gmolveau/9d72c3c64544c4f95bd882d93cee55d1)
@@ -12,7 +13,6 @@
 - [DVD logo bouncing corners changing colors in responsive portable HTML](https://gist.github.com/gmolveau/24f7cc43e5fdf882a8bc22e775c9ca35)
 - [Create a new text file in the finder with Automator and Quick Action](https://gist.github.com/gmolveau/bd5f2e582b7e15ae99e58fe4bb42508c)
 - [bash best practices from https://kvz.io/bash-best-practices.html](https://gist.github.com/gmolveau/49f4e46edc624dbbc573bbd6c1e939a5)
-- [SingleFile personal config](https://gist.github.com/gmolveau/687b34dc13124289ce2e2af61c920283)
 - [bash run multiple commands in parallel](https://gist.github.com/gmolveau/1367c05762140ec2e02a24f1282abb3d)
 - [Postman ubuntu install without snap](https://gist.github.com/gmolveau/4173cb30bd7220deccad329954d8ffcf)
 - [macos install docker previous version before macos 11](https://gist.github.com/gmolveau/6d20c199f6b056c7e4d6afd0308f5aef)
