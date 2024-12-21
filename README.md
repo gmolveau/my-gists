@@ -1,5 +1,6 @@
 # List of my public [gists](https://gist.github.com/gmolveau)
 
+- [Openshot appimage installer](https://gist.github.com/gmolveau/a8afca3675cb68897aad00f26c0b9c14)
 - [Singlefile personal config (remove characters, FS friendly)](https://gist.github.com/gmolveau/fdbeb7ee4fc40b81584cf52fe7410618)
 - [python3.12 ModuleNotFoundError: No module named 'distutils'](https://gist.github.com/gmolveau/ac225c2d705a1d77d6b766d21623b7f2)
 - [Set thunar as default file-manager on ubuntu](https://gist.github.com/gmolveau/e63bdc807ef48715e044e411f1237968)
