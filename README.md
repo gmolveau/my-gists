@@ -1,5 +1,6 @@
 # List of my public [gists](https://gist.github.com/gmolveau)
 
+- [WSL install and setup + vscode](https://gist.github.com/gmolveau/2b76740a31ab3b6c4e9c6b69f298c7fb)
 - [cli best practices #linux](https://gist.github.com/gmolveau/1c602beb59bb10c17fda7201d7e4044f)
 - [Réaliser un sommier de lit en palettes europe pour matelas 140x200](https://gist.github.com/gmolveau/78c249527151683e6bfe719b81f45772)
 - [Openshot appimage installer](https://gist.github.com/gmolveau/a8afca3675cb68897aad00f26c0b9c14)
