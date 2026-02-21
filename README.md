@@ -1,5 +1,9 @@
 # List of my public [gists](https://gist.github.com/gmolveau)
 
+- [linkedin reset/empty script (2019)](https://gist.github.com/gmolveau/8369724f77b80b054cbd671ad63265fd)
+- [twitter empty / reset script (2019)](https://gist.github.com/gmolveau/2db950cb0be8d80a9035be50d01d8db1)
+- [facebook mass delete script (2019)](https://gist.github.com/gmolveau/62b585e0bf8febbb9cca0f0182325d87)
+- [facebook emptier (2019)](https://gist.github.com/gmolveau/353987f5e11cb9db511c5b06e3c53057)
 - [Activer liseuse numérique Kobo sans compte / Activate Kobo reader without account - Fnac/Darty/Rakuten](https://gist.github.com/gmolveau/1106fae8cdd305a200976e7ef307ff9f)
 - [boot on windows 11 from grub menu / add windows 11 to grub menu / xubuntu](https://gist.github.com/gmolveau/e58fbcfd31f28b2c365d37a7ea627c1b)
 - [how to disable vscode ai chat autocomplete suggestion tab](https://gist.github.com/gmolveau/aba1ac85745b9f75a6ea885428ef3ce2)
