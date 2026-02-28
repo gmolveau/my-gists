@@ -1,5 +1,7 @@
 # List of my public [gists](https://gist.github.com/gmolveau)
 
+- [Windows 11 restore old classic notepad / disable new notepad AI](https://gist.github.com/gmolveau/e2aae41cd3252994e3c7e9edb84ec8f9)
+- [ios/macos iphone/ipad/macbook/imac screen mirroring airplay on Philips OLED TV](https://gist.github.com/gmolveau/c8942e06fe4074ae1a402897851de760)
 - [linkedin reset/empty script (2019)](https://gist.github.com/gmolveau/8369724f77b80b054cbd671ad63265fd)
 - [twitter empty / reset script (2019)](https://gist.github.com/gmolveau/2db950cb0be8d80a9035be50d01d8db1)
 - [facebook mass delete script (2019)](https://gist.github.com/gmolveau/62b585e0bf8febbb9cca0f0182325d87)
